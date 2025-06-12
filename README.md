@@ -116,12 +116,8 @@ else:
 * Advanced clustering (e.g., DBSCAN, Deep Learning).
 * Time-series forecasting for inventory optimization.
 
-## License
-
-This project is open-source. Refer to the notebook or LICENSE file for details.
-
 ## Contact
 
-\[Your Name/Organization Name] - \[Your Email/LinkedIn Profile]
+\[Pranjal Patil] - \[(https://www.linkedin.com/in/pranjal-patil07/)]
 
-Project Link: \[GitHub Repository URL]
+Project Link: \[(https://github.com/pranjalpatil-73/Dynamic-Product-Bundling-Optimization)]
